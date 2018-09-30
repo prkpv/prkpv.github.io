@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Сергей Прокопьев</title>
+    <link>http://psv.space/</link>
+    <description>Recent content on Сергей Прокопьев</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Сайт работает благодаря [Hugo](https://gohugo.io/), [Bootstrap4](https://github.com/alanorth/hugo-theme-bootstrap4-blog) и [Github](https://github.com/).</copyright>
+    <lastBuildDate>Tue, 03 Jan 2017 23:50:24 +0800</lastBuildDate>
+    
+	<atom:link href="http://psv.space/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Интересные подкасты</title>
+      <link>http://psv.space/2017/01/%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%D0%BD%D1%8B%D0%B5-%D0%BF%D0%BE%D0%B4%D0%BA%D0%B0%D1%81%D1%82%D1%8B/</link>
+      <pubDate>Tue, 03 Jan 2017 23:50:24 +0800</pubDate>
+      
+      <guid>http://psv.space/2017/01/%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%D0%BD%D1%8B%D0%B5-%D0%BF%D0%BE%D0%B4%D0%BA%D0%B0%D1%81%D1%82%D1%8B/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.mobile-review.com/articles/2006/new-mr-podcasts.shtml&#34;&gt;Mobile-review&lt;/a&gt; - все о мобильной технике и технологиях&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.radio-t.com&#34;&gt;Radio-T&lt;/a&gt; - импровизации на темы высоких технологий&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://linkmeup.ru/podcasts&#34;&gt;LinkMeUp&lt;/a&gt; - первый подкаст для связистов&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://digestive.libsyn.com&#34;&gt;Диджестив от Саши и Каши&lt;/a&gt; - родственный подкаст Mobile-review&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://podcast.umputun.com&#34;&gt;Umputun&lt;/a&gt; - обо всем понемногу&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://itunes.apple.com/ru/podcast/aj-kak-prosto!/id1055617274?l=en&amp;amp;mt=2&#34;&gt;Ай, Как Просто!&lt;/a&gt; - о технологиях, кино, сериалах и немножко об играх&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://vigorousspace.co/zvoook&#34;&gt;Zvook&lt;/a&gt; - шоу &amp;ldquo;Звук&amp;rdquo;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hello world</title>
+      <link>http://psv.space/2017/01/hello-world/</link>
+      <pubDate>Mon, 02 Jan 2017 16:41:26 +0800</pubDate>
+      
+      <guid>http://psv.space/2017/01/hello-world/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Эбаут</title>
+      <link>http://psv.space/%D1%8D%D0%B1%D0%B0%D1%83%D1%82/</link>
+      <pubDate>Sun, 01 Jan 2017 15:43:13 +0800</pubDate>
+      
+      <guid>http://psv.space/%D1%8D%D0%B1%D0%B0%D1%83%D1%82/</guid>
+      <description>Сайт создан автором в большей мере для изучения и тестирования различных веб технологий, нежели для публикации собственного контента. Хотя, в будущем, не исключено и обратное.
+Предпочитаемый способ связи - volp.opa@gmail.com</description>
+    </item>
+    
+  </channel>
+</rss>
