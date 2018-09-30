@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Сергей Прокопьев</title>
-    <link>http://psv.space/tags/</link>
+    <link>https://psv.space/tags/</link>
     <description>Recent content in Tags on Сергей Прокопьев</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Сайт работает благодаря [Hugo](https://gohugo.io/), [Bootstrap4](https://github.com/alanorth/hugo-theme-bootstrap4-blog) и [Github](https://github.com/).</copyright>
     
-	<atom:link href="http://psv.space/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://psv.space/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Сергей Прокопьев</title>
-    <link>http://psv.space/page/</link>
+    <link>https://psv.space/page/</link>
     <description>Recent content in Pages on Сергей Прокопьев</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Сайт работает благодаря [Hugo](https://gohugo.io/), [Bootstrap4](https://github.com/alanorth/hugo-theme-bootstrap4-blog) и [Github](https://github.com/).</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 15:43:13 +0800</lastBuildDate>
     
-	<atom:link href="http://psv.space/page/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://psv.space/page/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Эбаут</title>
-      <link>http://psv.space/%D1%8D%D0%B1%D0%B0%D1%83%D1%82/</link>
+      <link>https://psv.space/%D1%8D%D0%B1%D0%B0%D1%83%D1%82/</link>
       <pubDate>Sun, 01 Jan 2017 15:43:13 +0800</pubDate>
       
-      <guid>http://psv.space/%D1%8D%D0%B1%D0%B0%D1%83%D1%82/</guid>
+      <guid>https://psv.space/%D1%8D%D0%B1%D0%B0%D1%83%D1%82/</guid>
       <description>Сайт создан автором в большей мере для изучения и тестирования различных веб технологий, нежели для публикации собственного контента. Хотя, в будущем, не исключено и обратное.
 Предпочитаемый способ связи - volp.opa@gmail.com</description>
     </item>
