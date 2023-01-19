@@ -9,10 +9,10 @@
     <lastBuildDate>Thu, 05 Jan 2017 20:50:24 +0800</lastBuildDate><atom:link href="https://psv.space/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Интересные подкасты</title>
-      <link>https://psv.space/%D0%B5%D1%89%D0%B5/podcasts/</link>
+      <link>https://psv.space/%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D0%B8/podcasts/</link>
       <pubDate>Thu, 05 Jan 2017 20:50:24 +0800</pubDate>
       
-      <guid>https://psv.space/%D0%B5%D1%89%D0%B5/podcasts/</guid>
+      <guid>https://psv.space/%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D0%B8/podcasts/</guid>
       <description>LinkMeUp - первый подкаст для связистов
 Radio-T - импровизации на темы высоких технологий
 Umputun - обо всем понемногу
@@ -21,19 +21,19 @@ Mobile-review - все о мобильной технике и технолог�
     
     <item>
       <title>Хелло ворлд</title>
-      <link>https://psv.space/%D0%B5%D1%89%D0%B5/hello/</link>
+      <link>https://psv.space/%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D0%B8/hello/</link>
       <pubDate>Sun, 01 Jan 2017 16:41:26 +0800</pubDate>
       
-      <guid>https://psv.space/%D0%B5%D1%89%D0%B5/hello/</guid>
+      <guid>https://psv.space/%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D0%B8/hello/</guid>
       <description>Хелло !!!</description>
     </item>
     
     <item>
-      <title>Эбаут</title>
-      <link>https://psv.space/about/</link>
+      <title>О</title>
+      <link>https://psv.space/%D0%BE/</link>
       <pubDate>Sun, 01 Jan 2017 15:43:13 +0800</pubDate>
       
-      <guid>https://psv.space/about/</guid>
+      <guid>https://psv.space/%D0%BE/</guid>
       <description>Сайт создан автором в большей мере для изучения и тестирования различных веб технологий.
 Предпочитаемый способ связи - admin@psv.space</description>
     </item>
