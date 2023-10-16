@@ -1,19 +1,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Posts on Сергей Прокопьев</title>
-		<link>https://psv.space/posts/</link>
+		<link>https://prkpv.github.io/posts/</link>
 		<description>Recent content in Posts on Сергей Прокопьев</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<lastBuildDate>Thu, 05 Jan 2017 20:50:24 +0800</lastBuildDate>
-		<atom:link href="https://psv.space/posts/index.xml" rel="self" type="application/rss+xml" />
+		<atom:link href="https://prkpv.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
 		
 		<item>
 			<title>Интересные подкасты</title>
-			<link>https://psv.space/posts/podcasts/</link>
+			<link>https://prkpv.github.io/posts/podcasts/</link>
 			<pubDate>Thu, 05 Jan 2017 20:50:24 +0800</pubDate>
 			
-			<guid>https://psv.space/posts/podcasts/</guid>
+			<guid>https://prkpv.github.io/posts/podcasts/</guid>
 			<description>LinkMeUp - первый подкаст для связистов
 Radio-T - импровизации на темы высоких технологий
 Umputun - обо всем понемногу
@@ -37,10 +37,10 @@ Mobile-review - все о мобильной технике и технолог�
 		
 		<item>
 			<title>Хелло ворлд</title>
-			<link>https://psv.space/posts/hello/</link>
+			<link>https://prkpv.github.io/posts/hello/</link>
 			<pubDate>Sun, 01 Jan 2017 16:41:26 +0800</pubDate>
 			
-			<guid>https://psv.space/posts/hello/</guid>
+			<guid>https://prkpv.github.io/posts/hello/</guid>
 			<description>Хелло !!!</description>
 			<content type="html"><![CDATA[<p>Хелло !!!</p>
 ]]></content>

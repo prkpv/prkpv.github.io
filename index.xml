@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Сергей Прокопьев</title>
-    <link>https://psv.space/</link>
+    <link>https://prkpv.github.io/</link>
     <description>Recent content on Сергей Прокопьев</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Jan 2017 20:50:24 +0800</lastBuildDate><atom:link href="https://psv.space/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 Jan 2017 20:50:24 +0800</lastBuildDate><atom:link href="https://prkpv.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Интересные подкасты</title>
-      <link>https://psv.space/posts/podcasts/</link>
+      <link>https://prkpv.github.io/posts/podcasts/</link>
       <pubDate>Thu, 05 Jan 2017 20:50:24 +0800</pubDate>
       
-      <guid>https://psv.space/posts/podcasts/</guid>
+      <guid>https://prkpv.github.io/posts/podcasts/</guid>
       <description>LinkMeUp - первый подкаст для связистов
 Radio-T - импровизации на темы высоких технологий
 Umputun - обо всем понемногу
@@ -21,19 +21,19 @@ Mobile-review - все о мобильной технике и технолог�
     
     <item>
       <title>Хелло ворлд</title>
-      <link>https://psv.space/posts/hello/</link>
+      <link>https://prkpv.github.io/posts/hello/</link>
       <pubDate>Sun, 01 Jan 2017 16:41:26 +0800</pubDate>
       
-      <guid>https://psv.space/posts/hello/</guid>
+      <guid>https://prkpv.github.io/posts/hello/</guid>
       <description>Хелло !!!</description>
     </item>
     
     <item>
       <title>О</title>
-      <link>https://psv.space/about/</link>
+      <link>https://prkpv.github.io/about/</link>
       <pubDate>Sun, 01 Jan 2017 15:43:13 +0800</pubDate>
       
-      <guid>https://psv.space/about/</guid>
+      <guid>https://prkpv.github.io/about/</guid>
       <description>Сайт создан автором в большей мере для изучения и тестирования различных веб технологий.
 Предпочитаемый способ связи - admin@psv.space</description>
     </item>
